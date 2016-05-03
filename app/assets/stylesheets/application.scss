@@ -34,7 +34,8 @@
   background-size: cover;
   -o-background-size: cover;
   padding-top: 10%;
-  padding-bottom: 10%
+  padding-bottom: 10%;
+  margin-top: 50px;
 }
 
 .icon-paddings {
@@ -43,4 +44,55 @@
 
 .review-text {
   color: white;
+  font-size: 14pt;
+  font-style: italic;
 }
+
+.advantages-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  padding-top : 15px;
+}
+
+.review-header {
+  color: white;
+  margin-top: -40px;
+  margin-bottom: 70px
+}
+
+.review-signature {
+  text-align: right;
+}
+
+.img-for-banner {
+  background-image: url('img_for_banner.png');
+  height: 450px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.intro-topic {
+  margin-top: 100px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 50pt;
+  text-transform: uppercase;
+  font-weight: 100
+}
+
+.intro-text-about-us {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15pt;
+  font-weight: 100;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+// .intro-text-about-us {
+//   margin-top: 400px;
+//   font-family: "Open Sans", sans-serif;
+//   font-size: 20pt;
+//   // text-transform: uppercase;
+//   font-weight: 100
+// }
