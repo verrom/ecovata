@@ -96,3 +96,19 @@
 //   // text-transform: uppercase;
 //   font-weight: 100
 // }
+
+.logo {
+  background-image: url('logo.png');
+  width: 165px
+}
+
+.img-for-phone {
+  background-image: url('phone.png')
+}
+
+.phone {
+  margin-left: 20px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 21pt;
+}
