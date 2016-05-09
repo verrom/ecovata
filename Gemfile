@@ -54,3 +54,7 @@ group :development do
   gem 'capistrano-rbenv'
   gem 'capistrano-ssh-doctor', '~> 1.0'
 end
+
+group :production do
+  gem 'unicorn'
+end
