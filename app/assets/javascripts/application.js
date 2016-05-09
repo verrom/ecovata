@@ -15,7 +15,3 @@
 //= require turbolinks
 //= require bootstrap
 //= require_tree .
-@import "bootstrap";
-@import "agency.js";
-@import "cbpAnimatedHeader.js";
-@import "jquery.js";
