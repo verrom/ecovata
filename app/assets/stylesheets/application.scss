@@ -17,13 +17,13 @@
 @import "additional-styles.scss";
 
 .line {
-  background-image: url('line.png');
+  background-image: image-url('line.png');
   background-repeat: repeat-x;
   padding-top: 1.9%
 }
 
 .reviews {
-  background-image: url('reviews.jpg');
+  background-image: image-url('reviews.jpg');
   height: 75%;
   width: 100%;
    background-repeat: none;
@@ -65,7 +65,7 @@
 }
 
 .img-for-banner {
-  background-image: url('img_for_banner.png');
+  background-image: image-url('img_for_banner.png');
   height: 450px;
   margin-top: 0px;
   margin-bottom: 40px;
@@ -89,21 +89,13 @@
   margin-bottom: 20px
 }
 
-// .intro-text-about-us {
-//   margin-top: 400px;
-//   font-family: "Open Sans", sans-serif;
-//   font-size: 20pt;
-//   // text-transform: uppercase;
-//   font-weight: 100
-// }
-
 .logo {
-  background-image: url('logo.png');
+  background-image: image-url('logo.png');
   width: 165px
 }
 
 .img-for-phone {
-  background-image: url('phone.png')
+  background-image: image-url('phone.png')
 }
 
 .phone {
