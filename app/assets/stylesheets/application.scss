@@ -66,27 +66,28 @@
 
 .img-for-banner {
   background-image: image-url('img_for_banner.png');
-  height: 450px;
-  margin-top: 0px;
-  margin-bottom: 40px;
+  height: 330px;
+  margin-top: -10px;
+  margin-bottom: 10px;
   background-repeat: no-repeat;
   background-position: center center;
+  background-size: 280px 300px;
 }
 
 .intro-topic {
-  margin-top: 100px;
+  margin-top: 80px;
   font-family: "Open Sans", sans-serif;
-  font-size: 50pt;
+  font-size: 30pt;
   text-transform: uppercase;
   font-weight: 100
 }
 
 .intro-text-about-us {
   font-family: "Open Sans", sans-serif;
-  font-size: 15pt;
+  font-size: 11pt;
   font-weight: 100;
-  margin-top: 20px;
-  margin-bottom: 20px
+  margin-top: 10px;
+  margin-bottom: 10px
 }
 
 .logo {
@@ -106,4 +107,8 @@
 }
 th, td, h1 {
   text-align: center;
+}
+
+.margin-bottom {
+  margin-bottom: 400px
 }
