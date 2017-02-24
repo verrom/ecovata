@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   root 'pages#home'
 
   get '/price' => 'pages#price'
+  get '/about_ecovata' => 'pages#about_ecovata'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
